@@ -13,6 +13,8 @@ The output is a table containing the lexemes and their tokens, also the Lexical 
 <tr><td> COMMA  <td> DOT  <td> COLON  <td> EQUAL <td> LOWER_OR_EQUALS 
 <tr><td> GREATER_OR_EQUALS <td> NOT_EQUALS  <td> GREATER_THAN  <td> LOWER_THAN  <td> AT_SIGN </td>
 </table>
+<br>
 
 ## The machine diagrame
+![my-Image](./src/main/resources/DFA.png)
 
