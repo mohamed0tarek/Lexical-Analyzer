@@ -15,6 +15,10 @@ The output is a table containing the lexemes and their tokens, also the Lexical 
 </table>
 <br>
 
+  **`Note`** ***I built a parser you can check from [here](https://github.com/mohamed0tarek/Simple-parser).***
+
 ## The machine diagrame
 ![my-Image](./src/main/resources/DFA.png)
 
+<hr>
+  
